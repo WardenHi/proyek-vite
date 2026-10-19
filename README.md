@@ -1,7 +1,27 @@
 # Idenfitikasi
-Nama: Rayhan Ilham Rabbani
-NIM: 2505584
-Prodi: Pilkom 3C
+Nama: Rayhan Ilham Rabbani  
+NIM: 2505584  
+Prodi: Pilkom 3C  
+# Deskripsi
+Website perusahaan fiktif bernama Fih & Co. Publishing yang berfokus pada menerbitkan karya anti-mainstream dari author indie dsb.
+# Cara menjalankan
+Instalasi:
+npm install
+Menjalankan:
+npm run dev
+
+Buka http://localhost:5173/
+# Screenshots
+
+![alt text](<Screenshot 2026-10-19 194946.png>)
+
+![alt text](<Screenshot 2026-10-19 194959.png>)
+
+![alt text](<Screenshot 2026-10-19 195009.png>)
+
+![alt text](<Screenshot 2026-10-19 195021.png>)
+
+![alt text](image.png)
 
 # React + Vite
 
